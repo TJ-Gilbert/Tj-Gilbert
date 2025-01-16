@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hello!👋
 
+## This will eventually be the spot where I post about projects I'm working on. ⏳
 <!--
 **TJ-Gilbert/Tj-Gilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
